@@ -41,7 +41,7 @@ This repository showcases a collection of data analysis projects focused on extr
 ## Getting Started
 1. Clone this repository
 ```
-git clone https://github.com/yourusername/Data-Analytics-Portfolio.git
+https://github.com/Codeman-lex/Algoritmic-Data-Projects.git
 ```
 2. Navigate to the project directory
 ```
